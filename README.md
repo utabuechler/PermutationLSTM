@@ -9,7 +9,7 @@ Implementation code for training the Permutation LSTM in tensorflow and caffe.
 
 ## Installation
 
-Follow the instraction for the installation of the preferred framework (tensorflow or caffe) and run the script!
+Follow the instruction for the installation of the preferred framework (tensorflow or caffe) and run the script!
 
 ## Usage
 
